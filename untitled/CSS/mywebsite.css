@@ -1,0 +1,31 @@
+h2{
+    background-color: aquamarine;
+}
+.firstdiv{
+    align-items: center;
+    font-size: 20px;
+    background-color: aquamarine;
+    padding: 10px;
+}
+.links{
+    font-size: 25px;
+    font-family: Bahnschrift;
+    text-align: right;
+}
+.button{
+    width: 30%;
+    height: 50%;
+    margin-left: 100px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    background-color: crimson;
+}
+.lastdiv{
+    padding: 10px;
+    background-color: aqua;
+    width:100%;
+    text-align: center;
+}
+.inputstyle{
+    width: 40%;
+}

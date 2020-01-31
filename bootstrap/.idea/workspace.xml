@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="14d28172-771f-4da1-bf73-137479af78e7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WhdQbSQEn7R8hXYawmyBQD9FoP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images/gif" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\PhpstormProjects\bootstrap\images\gif" />
+      <recent name="C:\Users\User\PhpstormProjects\bootstrap" />
+      <recent name="C:\Users\User\PhpstormProjects\bootstrap\js" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\PhpstormProjects\bootstrap\HTML " />
+      <recent name="C:\Users\User\PhpstormProjects\bootstrap" />
+      <recent name="C:\Users\User\PhpstormProjects\bootstrap\images" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="14d28172-771f-4da1-bf73-137479af78e7" name="Default Changelist" comment="" />
+      <created>1579605745020</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579605745020</updated>
+      <workItem from="1579605747971" duration="7190000" />
+      <workItem from="1579692255187" duration="8257000" />
+      <workItem from="1579777786538" duration="7711000" />
+      <workItem from="1579806697525" duration="34000" />
+      <workItem from="1579806783227" duration="49000" />
+      <workItem from="1580123953364" duration="7104000" />
+      <workItem from="1580209476875" duration="15887000" />
+      <workItem from="1580239400272" duration="60000" />
+      <workItem from="1580295200690" duration="8950000" />
+      <workItem from="1580329260928" duration="2151000" />
+      <workItem from="1580467863268" duration="3437000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="140" key="FileChooserDialogImpl" timestamp="1579806728660">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="140" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1579806728660" />
+    <state x="379" y="209" key="com.intellij.ide.util.TipDialog" timestamp="1580467868024">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="379" y="209" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1580467868024" />
+    <state x="339" y="172" key="run.anything.popup" timestamp="1580232001335">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="339" y="172" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1580232001335" />
+    <state x="346" y="89" key="search.everywhere.popup" timestamp="1580295668039">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="346" y="89" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1580295668039" />
+  </component>
+</project>

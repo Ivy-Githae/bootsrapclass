@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="215170e7-7e8d-44fd-8183-16f5b99d255e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WLErtuXEaLS8GMavrcShLSUcko" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="D:/js-cart" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\PhpstormProjects\untitled\html" />
+      <recent name="C:\Users\User\PhpstormProjects\untitled\CSS" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\PhpstormProjects\untitled\images" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="215170e7-7e8d-44fd-8183-16f5b99d255e" name="Default Changelist" comment="" />
+      <created>1578920680526</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578920680526</updated>
+      <workItem from="1578920696762" duration="2910000" />
+      <workItem from="1578943404694" duration="697000" />
+      <workItem from="1578997570799" duration="379000" />
+      <workItem from="1578998012868" duration="10218000" />
+      <workItem from="1579021976375" duration="3276000" />
+      <workItem from="1579027485742" duration="31000" />
+      <workItem from="1579086608358" duration="11342000" />
+      <workItem from="1579173508253" duration="1376000" />
+      <workItem from="1579176886149" duration="1163000" />
+      <workItem from="1579195995445" duration="4107000" />
+      <workItem from="1579249068945" duration="1391000" />
+      <workItem from="1579519179209" duration="8044000" />
+      <workItem from="1579547808790" duration="630000" />
+      <workItem from="1579605189357" duration="534000" />
+      <workItem from="1579612791410" duration="130000" />
+      <workItem from="1580217748864" duration="678000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="441" y="256" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1579007757469">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="441" y="256" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.768@0.0.1366.768" timestamp="1579007757469" />
+    <state x="463" y="140" key="FileChooserDialogImpl" timestamp="1579175221771">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="140" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1579175221771" />
+    <state x="379" y="209" key="com.intellij.ide.util.TipDialog" timestamp="1579605251167">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="379" y="209" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1579605251167" />
+  </component>
+</project>

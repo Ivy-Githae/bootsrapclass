@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>buttons with groups</title>
+
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/jquery.min.js"></script>
+    <script src="js/popper.min.js"></script>
+
+</head>
+<body>
+<div class="container pt-4 text-white text-right">
+    <div class="btn-group" role="group">
+        <button type="button" class="btn btn-primary">Home</button>
+        <button type="button" class="btn btn-primary">About</button>
+        <button type="button" class="btn btn-primary">Gallery</button>
+        <button type="button" class="btn btn-primary">Location</button>
+        <button type="button" class="btn btn-primary">Contact</button>
+    </div>
+</div>
+<div class="container pt-4 text-white text-center">
+    <div class="btn-group" role="group">
+        <a href="https://www.google.com" target="_blank"><button type="button" class="btn btn-primary">Home</button></a>
+        <button type="button" class="btn btn-primary">About</button>
+        <button type="button" class="btn btn-primary">Gallery</button>
+        <button type="button" class="btn btn-primary">Location</button>
+        <button type="button" class="btn btn-primary">Contact</button>
+    </div>
+</div>
+<div class="container pt-4 text-white">
+    <h3>Nesting</h3>
+    <div class="btn-group" role="group">
+        <button type="button" class="btn btn-primary">Home</button>
+        <button type="button" class="btn btn-primary">About</button>
+        <button type="button" class="btn btn-primary">Gallery</button>
+        <button type="button" class="btn btn-primary">Location</button>
+        <div class="dropdown">
+            <button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown">
+                Contact dropdown
+            </button>
+                <div class="dropdown-menu">
+                    <a class="dropdown-item" href="#">More info</a>
+                    <a class="dropdown-item" href="#">More info</a>
+                </div>
+        </div>
+
+    </div>
+    <div class="dropdown">
+        <button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown">
+            Dropdown button
+        </button>
+        <div class="dropdown-menu">
+            <a class="dropdown-item" href="#">Link 1</a>
+            <a class="dropdown-item" href="#">Link 2</a>
+            <a class="dropdown-item" href="#">Link 3</a>
+        </div>
+    </div>
+</div>
+
+</div>
+
+
+
+</body>
+</html>

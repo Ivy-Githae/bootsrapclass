@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Registration Form</title>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/jquery.min.js"></script>
+    <script src="js/popper.min.js"></script>
+</head>
+
+    <h1 style="text-align: center">REGISTRATION FORM</h1>
+    <h2 style="text-align: center">Applicant's Details</h2>
+<form action="#">
+    <section class="section1">
+        <div class="container pt-4">
+            <h3 style="text-align: center;">SECTION 1: PLEASE FILL THE DETAILS BELOW IN BLOCK FORM</h3>
+            <div class="form text-center p-5 w-100" style="text-align: center" >
+                    <div class="row">
+                        <div class="col-sm-4" >
+                            First Name:
+                            <br>
+                            <input type="text" name="firstname"
+                                                 placeholder="Enter your first name">
+                        </div>
+                        <div class="col-sm-4">
+                            Middle Name:
+                            <br>
+                            <input type="text" name="middlename"
+                                                placeholder="Enter your middle name">
+                        </div>
+                        <div class="col-sm-4">
+                            Last Name:
+                            <br>
+                            <input type="text" name="lastname"
+                                              placeholder="Enter your last name">
+                        </div>
+                    </div>
+                    <br>
+                    <div class="row">
+                        <div class="col-sm-4">
+                            City/Town Of Residence:
+                            <br>
+                            <input type="text" name="residence" placeholder="Enter Place of residence">
+                        </div>
+                        <div class="col-sm-4">
+                            Nationality:
+                            <br>
+                            <input type="text" name="nationality" placeholder="Nationality">
+
+                        </div>
+                        <div class="col-sm-4">
+                            ID NO/INDEX NO:
+                            <br>
+                            <input type="text" name="identification" placeholder="Enter ID number or INDEX number">
+
+                        </div>
+                    </div>
+                    <br>
+                    <div class="row">
+                        <div class="col-sm-4">
+                            Postal Address:
+                            <br>
+                            <input type="number" name="postaladdress" placeholder="Enter your Postal Address">
+                        </div>
+                        <div class="col-sm-4">
+                            Postal Code:
+                            <br>
+                            <input type="number" name="postalcode" placeholder="Enter your Postal Code">
+                        </div>
+                    </div>
+                    <br>
+                    <div class="row">
+                        <div class="col-sm-4">
+                            <div>
+                                Email:
+                                <br>
+                                <input type="email" name="email" value="example@mail.com">
+                            </div>
+                        </div>
+                        <div class="col-sm-4">
+                            Cell Phone No:
+                            <br>
+                            <input type="number" name="cellno" placeholder="cell phone number">
+                        </div>
+                    </div>
+                    <br>
+                    <div class="row">
+                        <div class="col-sm-4">
+                            <div>
+                                Gender:
+                                <br>
+                                <input type="radio" name="gender" value="male">Male
+                                <input type="radio" name="gender" value="female">Female
+                                <input type="radio" name="gender" value="other"> Other
+                            </div>
+                        </div>
+                        <br>
+                        <div class="col-sm-4">
+                            <div>
+                                Date of Birth:
+                                <br>
+                                <input type="date" name="dob">
+                            </div>
+                        </div>
+                    </div>
+                    <br>
+                    <div class="row">
+                        <div class="col-sm-4">
+                            Do you have any disability?:
+                            <br>
+                            <input type="radio" name="gender" value="male">YES
+                            <input type="radio" name="gender" value="female">NO
+                            <textarea name="disability" id="" cols="25" rows="2" style="resize:none">If yes specify</textarea>
+                        </div>
+                    </div>
+            </div>
+
+        </div>
+    </section>
+    <hr>
+    <section class="section2">
+        <div class="container p-4">
+            <h2 style="text-align:center">SECTION 2</h2>
+                <div class="text-center">
+                    COURSE:
+                    <br>
+                    <input type="radio" name="course" value="mit">MIT Course
+                    <input type="radio" name="course" value="android">Android Development
+                    <input type="radio" name="course" value="java">JAVA
+                    <input type="radio" name="course" value="python">Python
+                    <input type="radio" name="course" value="cyber">Cyber Security
+                </div>
+                <br>
+                <div class="text-center">
+                    Timing:
+                    <br>
+                    <input type="radio" name="timing" value="morning">Morning
+                    <input type="radio" name="timing" value="afternoon">Afternoon
+                    <input type="radio" name="timing" value="saturday">Saturday
+                </div>
+                <br>
+                <div class="text-center">
+                Colleges/Universities attended:
+                <br>
+                    <input type="text" name="education" placeholder="Enter colleges or univesities attended if any.">
+                    <input type="text" name="education" placeholder="Enter colleges or univesities attended if any.">
+                    <input type="text" name="education" placeholder="Enter colleges or univesities attended if any.">
+                </div>
+                <br>
+                <div class="text-center">
+                    Current College/University if any:
+                    <br>
+                    <input type="text" name="education" placeholder="Enter colleges or univesities attended if any.">
+                </div>
+                <div class="text-center">
+                    Year of study:
+                    <br>
+                    <input type="radio" name="yearofstudy" value="1">1
+                    <input type="radio" name="yearofstudy" value="2">2
+                    <input type="radio" name="yearofstudy" value="3">3
+                    <input type="radio" name="yearofstudy" value="4">4
+                    <input type="radio" name="yearofstudy" value="5">5
+                </div>
+                <div class="text-center">
+                    Occupation:
+                    <br>
+                    <input type="text" name="occupation" placeholder="Enter your occupation">
+                </div>
+        </div>
+    </section>
+    <hr>
+    <section class="section3">
+        <h2 class="h2 text-center">PARENT/GUARDIAN & NEXT OF KIN DETAILS</h2>
+        <div class="row text-center">
+            <div class="col-sm-4" >
+                First Name:
+                <br>
+                <input type="text" name="firstname"
+                       placeholder="Enter your first name">
+            </div>
+            <div class="col-sm-4">
+                Middle Name:
+                <br>
+                <input type="text" name="middlename"
+                       placeholder="Enter your middle name">
+            </div>
+            <div class="col-sm-4">
+                Last Name:
+                <br>
+                <input type="text" name="lastname"
+                       placeholder="Enter your last name">
+            </div>
+        </div>
+        <div class="row text-center">
+            <div class="col-sm-4">
+                <div>
+                    Email:
+                    <br>
+                    <input type="email" name="email" value="example@mail.com">
+                </div>
+            </div>
+            <div class="col-sm-4">
+                Cell Phone No:
+                <br>
+                <input type="number" name="cellno" placeholder="cell phone number">
+            </div>
+        </div>
+        <div class="row text-center">
+            <div class="col-sm-4">
+                Postal Address:
+                <br>
+                <input type="number" name="postaladdress" placeholder="Enter your Postal Address">
+            </div>
+            <div class="col-sm-4">
+                Postal Code:
+                <br>
+                <input type="number" name="postalcode" placeholder="Enter your Postal Code">
+            </div>
+        </div>
+        <div class="row text-center">
+            <div class="col-sm-4">
+                Next of kin:
+                <br>
+                <input type="text" name="nextkin" placeholder="Enter your next of kin">
+            </div>
+            <div class="col-sm-4">
+                Relationship:
+                <br>
+                <input type="text" name="relationship" placeholder="Enter your relationship to the next of kin">
+            </div>
+            <div class="col-sm-4">
+                Next Of Kin Contacts:
+                <br>
+                <input type="number" name="kincontacts" placeholder="Next of kin contacts">
+            </div>
+        </div>
+    </section>
+    <br>
+    <button class="button bg-primary" style="border-radius: 25px; padding-top: 4px; padding-bottom: 5px;margin: 0 auto; width: 50%; margin-left: 300px; margin-right: 300px;">
+        SUBMIT FORM
+    </button>
+</form>
+
+</body>
+</html>

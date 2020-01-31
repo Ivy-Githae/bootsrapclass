@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>patients form</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+
+
+    <style>
+        h1{
+            background-color: blue;
+        }
+        h2{
+            background-color: bisque;
+        }
+        div{
+            padding: 15px;
+        }
+        .styleinput{
+            width: 250px;
+        }
+        .stylebutton{
+            width: 40%;
+            margin-left: 200px;
+            margin-top: 15px;
+            margin-bottom: 15px;
+            background-color: crimson;
+        }
+    </style>
+
+</head>
+<body>
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <a class="navbar-brand" href="#">Navbar</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+            <li class="nav-item active">
+                <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#">Link</a>
+            </li>
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    Dropdown
+                </a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                    <a class="dropdown-item" href="#">Action</a>
+                    <a class="dropdown-item" href="#">Another action</a>
+                    <div class="dropdown-divider"></div>
+                    <a class="dropdown-item" href="#">Something else here</a>
+                </div>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+            </li>
+        </ul>
+        <form class="form-inline my-2 my-lg-0">
+            <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+            <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+        </form>
+    </div>
+</nav>
+<h1 style="text-align: center">Welcome to homepage</h1>
+<h2 style="text-align: center" > Kindly Register Here!</h2>
+<form action="#" style="background-color: blueviolet">
+      <div>    First Name:   <input type="text" name="firstname" class="styleinput"
+                             placeholder="Enter your first name">
+          Last Name: <input type="text" name="lastname" class="styleinput"
+                          placeholder="Enter your last name">
+          Date of Birth: <input type="date" name="dob" class="styleinput">
+      </div>>
+          <div>
+        Place of Residence:
+        <input type="text" class="styleinput" placeholder="Enter current residence address">
+          <input type="number" class="styleinput" placeholder="Enter postal code">
+    </div>
+    <div>
+        Medical History:
+        <input type="text" name="medical history" value="Enter any previous medical history" class="styleinput">
+    </div>
+    <div>
+        Gender:
+        <input type="radio" name="gender" value="male">Male
+        <input type="radio" name="gender" value="female">Female
+        <input type="radio" name="gender" value="other"> Other
+    </div>
+    <div>
+        Previous Ilnesses:
+        <input type="checkbox" name="course" value="malaria">MALARIA
+        <input type="checkbox" name="course" value="PYTHON">PNEUMONIA
+        <input type="checkbox" name="course" value="PHP">FLU
+        <input type="checkbox" name="course" value="JAVA">NONE
+    </div>
+    <br>
+    <div>
+       <p>Describe signs of and symptoms of illness:</p>
+        <textarea name="description" id="" cols="30" rows="10" >Describe signs of and symptoms of illness</textarea>
+    </div>
+    <div>
+        Appointment Time:
+        <input type="time" name="time" class="styleinput">
+    </div>
+    <div>
+        Symptoms:
+        <select name="Symptoms" id="">
+            <option value="Headache">Headache</option>
+            <option value="Coughing">Coughing</option>
+            <option value="Drowsiness">Drowsiness</option>
+            <option value="painful joints">Painful Joints</option>
+            <option value="Bleeding">Bleeding</option>
+        </select>
+    </div>
+
+    <div>
+        <button class="stylebutton">Submit Form</button>
+    </div>
+
+</form>
+
+</body>
+</html>
